@@ -26,4 +26,4 @@ $ python manage.py runserver
 ```
 
 Next follow the video to understand the code and deploy.
-<img src https="//www.google.com/search?q=messi&tbm=isch&sxsrf=APq-WBtEdtl8yrQQ5pvYIpzQjTUmNpF4pA:1644392993490&source=lnms&sa=X&ved=2ahUKEwi5tv2hkfL1AhXhV3wKHcsXCy8Q_AUoAnoECAEQBA&biw=1280&bih=577&dpr=1.5#imgrc=1Snc2sc5yUMGiM"/>
+<img src ="https://www.google.com/search?q=messi&tbm=isch&sxsrf=APq-WBtEdtl8yrQQ5pvYIpzQjTUmNpF4pA:1644392993490&source=lnms&sa=X&ved=2ahUKEwi5tv2hkfL1AhXhV3wKHcsXCy8Q_AUoAnoECAEQBA&biw=1280&bih=577&dpr=1.5#imgrc=1Snc2sc5yUMGiM">
